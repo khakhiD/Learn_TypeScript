@@ -24,8 +24,8 @@ const tup: [number, number] = [4, 5];
 
 // Tuple(튜플) 타입2
 // [id, name, isValid]
-const userA: [number, string, boolean] = [1, 'Heropy', true];
-const userB: [number, string, boolean] = [2, 'Neo', false];
+const userA: [number, string, boolean] = [1, 'Dongho', true];
+const userB: [number, string, boolean] = [2, 'Khakid', false];
 // const userC: [number, string, boolean] = [3, 'Evan', true, 'evan@gamil.com']
 
 // Tuple(튜플) 타입3
@@ -35,7 +35,7 @@ const tup2: [number, number] = [4, 5];
 tup2.push(6); // [4, 5, 6] 이건 됨; 의도하지 않게 length가 바뀐다.
 tup2.splice(2, 0, 6); // [4, 5, 6] 이것도 된다. length가 바뀐다!
 
-const user: [number, string, boolean] = [1, 'Heropy', true];
+const user: [number, string, boolean] = [1, 'Dongho', true];
 user.push('thesecon@gmail.com'); // push, splice 등에서 튜플 길이가 바뀌어 버린다는 것.
 
 // --------------------------------------------------------

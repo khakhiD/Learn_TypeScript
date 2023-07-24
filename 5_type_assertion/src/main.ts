@@ -39,7 +39,7 @@ toTwoDecimals(3.141592, true);
 toTwoDecimals('Hello world!', false);
 
 // 3)
-const json = '{ "name": "Dongho", "age": 85 }';
+const json = '{ "name": "Dongho", "age": 27 }';
 const user = JSON.parse(json);
 console.log(user.email); // - OK! 그런데 email 속성이 없음!
 
