@@ -1,0 +1,11 @@
+{
+  "name": "tsconfig_options",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tsc": "tsc --showConfig"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
