@@ -1,0 +1,11 @@
+{
+  "name": "11_interface_index_signature",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
