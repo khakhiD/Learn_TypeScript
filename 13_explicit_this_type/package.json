@@ -1,0 +1,12 @@
+{
+  "name": "13_explicit_this_type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
