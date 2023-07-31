@@ -152,7 +152,7 @@ uni = [1, 2, 3];
   2개 이상의 타입이 '병합'된 타입
 */
 
-// 타입을 커스텀해주는 타입 'type'
+// 타입을 커스텀해주는 타입 별칭 'type'
 type UserA = {
   name: string;
   age: number;
